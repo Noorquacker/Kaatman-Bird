@@ -1,6 +1,6 @@
 import pygame, random, time, sys
 pygame.init()
-pygame.display.set_icon(pygame.image.load("zerotwo.png"))
+pygame.display.set_icon(pygame.image.load("kaatman.png"))
 pygame.font.init()
 pygame.display.set_caption('Kaatman Bird')
 bird, bird_dead, window, font, font2, clock, start, vel, ypos, hscore, pipe, tscore, died = pygame.image.load("kaatman.png"), pygame.image.load("kaatmandie.png"), pygame.display.set_mode((720,720)), pygame.font.SysFont('Arial', 72), pygame.font.SysFont('Arial', 36), pygame.time.Clock(), False, 7., 300, 0, [720,random.randint(0,380)], 0, False
