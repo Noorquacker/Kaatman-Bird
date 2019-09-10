@@ -1,3 +1,4 @@
+#lmao this was made by noorquacker originally ples give credit https://www.nqind.com but you dont have to its ok
 import pygame, random, time, sys
 pygame.init()
 pygame.display.set_icon(pygame.image.load("fed.png"))
