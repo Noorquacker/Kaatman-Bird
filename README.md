@@ -8,3 +8,5 @@ Computer science project
 I wanted to flex on everyone in my class. Definitely worth the 5 in-class days
 ## Why is there a lite and full version?
 They're the same. I made it all work in 39 lines but the project requirement was to be at least 75 lines.
+## When was this made?
+Revised 2019-01-11 16:28
